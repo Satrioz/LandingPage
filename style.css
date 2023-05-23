@@ -19,14 +19,15 @@
   #contact {
     background-color: #24305E;
   }
-  
-  section{
-      padding-top: 5rem;
-  }
 
   a {
     text-decoration: none;
     color: black;
+  }
+
+  .card-img{
+    width: 200px;
+    height: 200px;
   }
 
   
